@@ -21,6 +21,8 @@
       <link href="https://fonts.googleapis.com/css?family=Dosis:300,400,500,600,700,800|Roboto:300,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
       <!-- Icofont CSS -->
       <link rel="stylesheet" href="{{ asset('nekaton/assets/css/icofont.min.css') }}">
+      <!-- Fontawesome CSS -->
+      <link rel="stylesheet" href="{{ asset('nekaton/assets/css/icofont.min.css') }}">
       <!-- Meanmenu CSS -->
       <link rel="stylesheet" href="{{ asset('nekaton/assets/css/meanmenu.min.css') }}">
       <!--- owl carousel Css-->

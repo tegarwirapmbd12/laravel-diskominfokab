@@ -7,8 +7,8 @@ Version      : 1.0
 /*=============================================================
     CSS INDEX
     =============================
-    01. START GENERAL STYLE 
-    02. START HEADER STYLE 
+    01. START GENERAL STYLE
+    02. START HEADER STYLE
     03. START SLIDER STYLE
     04. START ABOUT STYLE
     05. START FEATURES STYLE
@@ -448,7 +448,7 @@ fieldset {
   content: "";
   height: 100%;
   left: 0;
-  opacity: 0.8;
+  opacity: 0.1;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
   position: absolute;
   top: 0;
@@ -717,8 +717,8 @@ a.header-search {
   top: -30px;
 }
 
-.header-search-modal .header-search-btn:hover, 
-.header-search-modal .header-search-btn:focus, 
+.header-search-modal .header-search-btn:hover,
+.header-search-modal .header-search-btn:focus,
 .header-search-modal .header-search-btn:active {
   box-shadow: none;
   color: #fff;
@@ -740,8 +740,8 @@ a.header-search {
   bottom: 200px;
 }
 
-.header-search-modal button.close:active, 
-.header-search-modal button.close:active, 
+.header-search-modal button.close:active,
+.header-search-modal button.close:active,
 .header-search-modal button.close:focus {
   box-shadow: none;
   outline: 0;
@@ -5413,8 +5413,8 @@ a.header-search {
   background: #0E70C7;
 }
 
-.con-btn:hover, 
-.con-btn:focus, 
+.con-btn:hover,
+.con-btn:focus,
 .con-btn:active {
   background: #333;
   color: #fff;

@@ -1,10 +1,4 @@
-@extends('layouts.main')
-
-@section('content')
-
-
-
-      <!-- START BLOG PAGE WELCOME SECTION -->
+<!-- START BLOG PAGE WELCOME SECTION -->
 <section id="bloglist" class="section-padding">
     <div class="auto-container">
        <div class="row mb-lg-5 mb-0">
@@ -304,7 +298,7 @@
              <div class="sidebar-widget pro_wid mb-5">
                 <div class="sidebar-widget-inner">
                    <div class="sidebar-widget-title">
-                      <h5>Kepala Dinas</h5>
+                      <h5>Promo Box</h5>
                    </div>
                    <div class="pro-box overlay">
                        <img class="img-fluid" src="{{ ('nekaton/assets/img/bg/foto-kadis.jpg') }}" alt="">
@@ -455,4 +449,3 @@
     </div>
  </section>
  <!-- START NEWSLETTER SECTION -->
-@endsection
