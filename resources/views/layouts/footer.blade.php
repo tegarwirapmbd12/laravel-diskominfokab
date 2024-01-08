@@ -11,7 +11,9 @@
                    </div>
                 </div>
                 <div class="footer-widget-inner">
-                   <p>Pellentesque Sed ut perspiciatisd oms iste natus error sitr undelr voluptateml accusantium udema dolore lomquede laudantium, totarmd aperiam, eaquere ipsa quae ab illa inventore veritatis etr quasi lorem architecto.</p>
+                   <p>Jl. Diponegoro No. 14, Gedung D, UNGARAN – 50511</p>
+                   <p>Telp : (024) 76901553</p>
+                   <p>Email : kominfo@semarangkab.go.id</p>
                    <div class="img-menu float-lg-left float-none mt-3">
                       <div class="footer-social">
                          <ul>
@@ -27,7 +29,7 @@
              <!-- end col -->
              <div class="col-lg-3 col-md-6 col-sm-12 col-12 mb-lg-0 mb-md-5 mb-sm-5 mb-5">
                 <div class="footer-widget-title col-12 p-0">
-                   <h4>Latest Post</h4>
+                   <h4>TERBARU</h4>
                 </div>
                 <div class="footer-widget-inner">
                    <div class="singleRecpost">
@@ -49,7 +51,7 @@
              <!-- end col -->
              <div class="col-lg-3 col-md-6 col-sm-12 col-12 mb-lg-0 mb-md-0 mb-sm-5 mb-5">
                 <div class="footer-widget-title col-12 p-0">
-                   <h4>Useful Links</h4>
+                   <h4>LOKASI</h4>
                 </div>
                 <div class="footer-widget-inner">
                    <ul>
@@ -65,40 +67,48 @@
              <!-- end col -->
              <div class="col-lg-3 col-md-6 col-sm-12 col-12 mb-lg-0 mb-md-0 mb-sm-0 mb-0">
                 <div class="footer-widget-title col-12 p-0">
-                   <h4>Get In Touch</h4>
+                   <h4>PENGUNJUNG</h4>
                 </div>
                 <div class="footer-widget-inner">
                    <div class="footer-contact-widget">
                       <div class="footer-contact-sin">
                          <div class="footer-contact-sin-left">
-                            <i class="icofont-pin"></i>
+                            <i class="icofont-user"></i>
                          </div>
                          <div class="footer-contact-sin-right">
-                            <p>Brooklyn, NY 11212</p>
+                            <p>Users Today :</p>
                          </div>
                       </div>
                       <div class="footer-contact-sin">
                          <div class="footer-contact-sin-left">
-                            <i class="icofont-smart-phone"></i>
+                            <i class="icofont-calendar"></i>
                          </div>
                          <div class="footer-contact-sin-right">
-                            <p>123-456-0975</p>
+                            <p>This Month :</p>
                          </div>
                       </div>
                       <div class="footer-contact-sin">
                          <div class="footer-contact-sin-left">
-                            <i class="icofont-envelope"></i>
+                            <i class="icofont-ui-calendar"></i>
                          </div>
                          <div class="footer-contact-sin-right">
-                            <p>info@yoursite.com</p>
+                            <p>This Year :</p>
                          </div>
                       </div>
                       <div class="footer-contact-sin">
                          <div class="footer-contact-sin-left">
-                            <i class="icofont-clock-time"></i>
+                            <i class="icofont-chart-bar-graph"></i>
                          </div>
                          <div class="footer-contact-sin-right">
-                            <p>Mon - Sun : 09:00 - 18:00</p>
+                            <p>Total Views :</p>
+                         </div>
+                      </div>
+                      <div class="footer-contact-sin">
+                         <div class="footer-contact-sin-left">
+                            <i class="icofont-laptop-alt"></i>
+                         </div>
+                         <div class="footer-contact-sin-right">
+                            <p>Your IP Address : 125.167.149.199</p>
                          </div>
                       </div>
                    </div>

@@ -434,8 +434,8 @@
        <div class="row">
           <div class="col-lg-7 col-12 mb-lg-0 mb-4">
              <div class="hnewslettr-left">
-                <h2>Subscribe to our Newsletter</h2>
-                <p>Enter your email and we'll send you details about new courses and events.</p>
+                <h2>Masukkan Kritik dan Saran</h2>
+                {{-- <p>Enter your email and we'll send you details about new courses and events.</p> --}}
              </div>
           </div>
           <!-- end col -->
@@ -444,8 +444,8 @@
                 <form action="#" method="post">
                    <div class="form-group">
                       <span class="form-icon"><i class="icofont-envelope"></i></span>
-                      <input name="semail" class="form-control" placeholder="Your Email Address" type="email">
-                      <button type="submit" class="btn news-btn">Subscribe</button>
+                      <input name="semail" class="form-control" placeholder="Kritik dan Saran" type="email">
+                      <button type="submit" class="btn news-btn">Send</button>
                    </div>
                 </form>
              </div>
