@@ -78,8 +78,8 @@
                 <div class="col-lg-10 d-none d-lg-block d-md-none">
                    <nav class="navbar navbar-expand-lg justify-content-left">
                       <ul class="navbar-nav">
-                         <li class="active"><a href="index.html" class="nav-link">Beranda</a></li>
-                         <li class="dropdown"><a class="nav-link" href="">Profil</a>
+                         <li class="active"><a href="/" class="nav-link">Beranda</a></li>
+                         <li class="dropdown"><a class="nav-link" href="" >Profil</a>
                             <ul class="dropdown-menu">
                                <li><a href="services.html">VISI MISI</a></li>
                                <li><a href="single-service.html">TUGAS POKOK DAN FUNGSI</a></li>
@@ -87,7 +87,7 @@
                                <li><a href="single-service.html">PEGAWAI DISKOMINFO</a></li>
                             </ul>
                          </li>
-                         <li class="dropdown"><a class="nav-link" href="">SUB UNIT KERJA</a>
+                         <li class="dropdown"><a class="nav-link" href="" >SUB UNIT KERJA</a>
                             <ul class="dropdown-menu">
                                <li><a href="services.html">SEKRETARIAT</a></li>
                                <li><a href="single-service.html">BIDANG KOMUNIKASI DAN INFORMASI PUBLIK</a></li>
